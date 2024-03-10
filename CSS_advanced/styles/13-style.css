@@ -18,6 +18,7 @@ a:link {
 }
 
 a.visited {
+    color: var(--text-color);
     font-style: italic;
 }
 
