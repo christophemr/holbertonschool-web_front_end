@@ -1,3 +1,4 @@
+/* smooth transition*/
 html {
-    scroll-behavior: smooth; /* smooth auto */
+    scroll-behavior: smooth;
 }
