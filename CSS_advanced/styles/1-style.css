@@ -1,0 +1,4 @@
+/* smooth transition*/
+html {
+    scroll-behavior: smooth;
+}
